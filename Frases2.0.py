@@ -50,7 +50,7 @@ while opcao != 5:
         input()
         os.system("cls")
     elif opcao == 4:
-        u = 'https://youtube.com/playlist?list=PL2R9e10Ism4JZX4vilEXljhU0it6Zcdjh&si=bG8lVdW-mPVw29Ds'
+        u = 'https://youtube.com/tdjh&si=bG8lVdW-mPVw29Ds'
         webbrowser.open(u)
     elif opcao == 5:
         print()
